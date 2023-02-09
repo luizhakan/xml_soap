@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <contribuinte>
+        <cpf>409.010.121-22</cpf>
+        <rg>49.936.335-8</rg>
+        <nome>Samuel Ruan Vinicius Vieira</nome>
+        <data_nasc>04/02/2003</data_nasc>
+        <endereco>
+            <logradouro>Travessa Virgílio Santiago</logradouro>
+            <numero>,330</numero>
+            <bairro>Centro</bairro>
+            <cep>54735-141</cep>
+            <cidade>São Lourenço da Mata</cidade>
+            <estado>Pernambuco</estado>
+        </endereco>
+        <contato>
+            <telefone>(81) 1111-1111</telefone>
+            <celular>(81) 91111-1111</celular>
+            <email>samuelruanvieira@balaiofilmes.com.br</email>
+        </contato>
+        <renda>R$ 1111</renda>
+        <foto>https://robohash.org/inciduntaperiamoptio.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Nubank</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>222.222.222-22</cpf>
+        <rg>22.222.222-5</rg>
+        <nome>João</nome>
+        <data_nasc>22/22/2022</data_nasc>
+        <endereco>
+            <logradouro>Rua</logradouro>
+            <numero>111</numero>
+            <bairro>nome do bairro</bairro>
+            <cep>11111-000</cep>
+            <cidade>Recife</cidade>
+            <estado>Pernambuco</estado>
+        </endereco>
+        <contato>
+            <telefone>(81) 1111-1111</telefone>
+            <celular>(81) 91111-1111</celular>
+            <email>email@email.com</email>
+        </contato>
+        <renda>R$ 1111</renda>
+        <foto>https://robohash.org/inciduntaperiamoptio.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Inter</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>333.333.333-33</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Klber</nome>
+        <data_nasc>11/11/2011</data_nasc>
+        <endereco>
+            <logradouro>Rua</logradouro>
+            <numero>111</numero>
+            <bairro>nome do bairro</bairro>
+            <cep>11111-000</cep>
+            <cidade>Recife</cidade>
+            <estado>Pernambuco</estado>
+        </endereco>
+        <contato>
+            <telefone>(81) 1111-1111</telefone>
+            <celular>(81) 91111-1111</celular>
+            <email>email@email.com</email>
+        </contato>
+        <renda>R$ 1111</renda>
+        <foto>https://robohash.org/inciduntaperiamoptio.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>PagBank</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>444.444.444-44</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Mário</nome>
+        <data_nasc>11/11/2011</data_nasc>
+        <endereco>
+            <logradouro>Rua</logradouro>
+            <numero>111</numero>
+            <bairro>nome do bairro</bairro>
+            <cep>11111-000</cep>
+            <cidade>Recife</cidade>
+            <estado>Pernambuco</estado>
+        </endereco>
+        <contato>
+            <telefone>(81) 1111-1111</telefone>
+            <celular>(81) 91111-1111</celular>
+            <email>email@email.com</email>
+        </contato>
+        <renda>R$ 1111</renda>
+        <foto>https://robohash.org/inciduntaperiamoptio.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>C6 Bank</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>555.555.555-55</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Naldo</nome>
+        <data_nasc>11/11/2011</data_nasc>
+        <endereco>
+            <logradouro>Rua</logradouro>
+            <numero>111</numero>
+            <bairro>nome do bairro</bairro>
+            <cep>11111-000</cep>
+            <cidade>Recife</cidade>
+            <estado>Pernambuco</estado>
+        </endereco>
+        <contato>
+            <telefone>(81) 1111-1111</telefone>
+            <celular>(81) 91111-1111</celular>
+            <email>email@email.com</email>
+        </contato>
+        <renda>R$ 1111</renda>
+        <foto>https://robohash.org/inciduntaperiamoptio.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Mercado Pago</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+</receita>
